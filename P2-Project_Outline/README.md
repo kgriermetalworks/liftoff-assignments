@@ -32,5 +32,9 @@ An app that allows pool professionals to manage their client list and create ser
 ● Thymeleaf
 ● Google Maps API
 
+### Project Tracker
+
+[Trello](https://trello.com/b/eLAkIGgR/capstone-project)
+
 ### What I'll Have to Learn
 To build this project, I will need to integrate Google Maps API to display the client list via a map. In addition, I will need to learn more about bootstrap to stream line the front end design work needed to make the app look very professional.   
