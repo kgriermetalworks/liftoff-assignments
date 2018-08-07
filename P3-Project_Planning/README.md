@@ -18,4 +18,3 @@ For this assignment, you'll create some initial plans for your project.
 
 [trello] (https://trello.com/b/eLAkIGgR/capstone-project)
 
-[capstone project] (https://github.com/kgriermetalworks/pool-trac)
